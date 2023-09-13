@@ -14,6 +14,7 @@ const { CKEditorTranslationsPlugin } = require( '@ckeditor/ckeditor5-dev-transla
 const TerserWebpackPlugin = require( 'terser-webpack-plugin' );
 
 module.exports = {
+	mode: "production",
 	devtool: 'source-map',
 	performance: { hints: false },
 
