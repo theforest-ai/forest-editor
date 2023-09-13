@@ -1,10 +1,9 @@
 {
-  "name": "ckeditor5-custom-build",
-  "author": "CKSource",
+  "name": "forest-editor",
+  "author": "tech@theforest.ai",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
-  "private": true,
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",
   "dependencies": {
